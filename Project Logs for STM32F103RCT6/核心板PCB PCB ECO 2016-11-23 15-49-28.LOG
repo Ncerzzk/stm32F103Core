@@ -1,0 +1,22 @@
+Added Component: Designator=D1(0805D)
+Added Component: Designator=D2(0805D)
+Added Component: Designator=R7(RES-0603)
+Added Component: Designator=R8(RES-0603)
+Added Component: Designator=TEST(Header2 PZ)
+Added Pin To Net: NetName=GND Pin=D1-K
+Added Pin To Net: NetName=PC6 Pin=D2-K
+Added Pin To Net: NetName=3V3 Pin=R7-2
+Added Pin To Net: NetName=3V3 Pin=R8-2
+Added Pin To Net: NetName=3V3 Pin=TEST-1
+Added Pin To Net: NetName=GND Pin=TEST-2
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=NetD1_A Pin=R7-1
+Added Net: Name=NetD1_A
+Added Pin To Net: NetName=NetD2_A Pin=D2-A
+Added Pin To Net: NetName=NetD2_A Pin=R8-1
+Added Net: Name=NetD2_A
+Added Member To Class: ClassName=ºËÐÄ°å Member=Component D1 lED
+Added Member To Class: ClassName=ºËÐÄ°å Member=Component D2 lED
+Added Member To Class: ClassName=ºËÐÄ°å Member=Component R7 Res1
+Added Member To Class: ClassName=ºËÐÄ°å Member=Component R8 Res1
+Added Member To Class: ClassName=ºËÐÄ°å Member=Component TEST Header2PZ

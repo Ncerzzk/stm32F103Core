@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=PA10 Pin=USART1-3
+Removed Pin From Net: NetName=PA9 Pin=USART1-4
+Change Component Designator: OldDesignator=USART1 NewDesignator=USART2
+Added Pin To Net: NetName=PA3 Pin=USART2-3
+Added Pin To Net: NetName=PA2 Pin=USART2-4

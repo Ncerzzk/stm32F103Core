@@ -1,0 +1,3 @@
+Change Component DesignItemId : Designator=P4 Old DesignItemId=Header 8X2 New DesignItemId=Header 9X2
+Change Component Footprint: Designator=P4 Old Footprint=Header 8X2 New Footprint=HDR2X9
+Change Component Comment : Designator=P4 Old Comment=Header 8X2 New Comment=Header 9X2

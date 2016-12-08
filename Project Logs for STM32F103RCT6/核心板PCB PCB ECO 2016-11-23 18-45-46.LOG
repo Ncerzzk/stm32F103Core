@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=PB13 Pin=OLED1-3
+Removed Pin From Net: NetName=PB15 Pin=OLED1-4
+Removed Pin From Net: NetName=OLEDRESET Pin=P3-1
+Removed Pin From Net: NetName=OLEDRESET Pin=U1-33
+Added Pin To Net: NetName=PA5 Pin=OLED1-3
+Added Pin To Net: NetName=PA7 Pin=OLED1-4
+Added Pin To Net: NetName=OLEDRESET Pin=P2-6
+Added Pin To Net: NetName=OLEDRESET Pin=U1-24
+Added Pin To Net: NetName=PB12 Pin=P3-1
+Added Pin To Net: NetName=PB12 Pin=U1-33
+Added Net: Name=PB12

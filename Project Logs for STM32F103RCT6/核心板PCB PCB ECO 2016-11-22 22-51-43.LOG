@@ -1,0 +1,65 @@
+Added Component: Designator=S1(KEY)
+Added Component: Designator=Y1(CYR)
+Added Component: Designator=Y2(Osc-6032)
+Added Net: Name=3V3
+Added Net: Name=BOOT0
+Added Net: Name=BOOT1
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NRST Pin=S1-1
+Added Net: Name=NRST
+Added Net: Name=OLEDRESET
+Added Pin To Net: NetName=OSC32_IN Pin=Y1-2
+Added Net: Name=OSC32_IN
+Added Pin To Net: NetName=OSC32_OUT Pin=Y1-1
+Added Net: Name=OSC32_OUT
+Added Pin To Net: NetName=OSCIN Pin=Y2-2
+Added Net: Name=OSCIN
+Added Pin To Net: NetName=OSCOUT Pin=Y2-1
+Added Net: Name=OSCOUT
+Added Net: Name=PA0
+Added Net: Name=PA1
+Added Net: Name=PA2
+Added Net: Name=PA3
+Added Net: Name=PA4
+Added Net: Name=PA5
+Added Net: Name=PA6
+Added Net: Name=PA7
+Added Net: Name=PA8
+Added Net: Name=PA9
+Added Net: Name=PA10
+Added Net: Name=PA11
+Added Net: Name=PA12
+Added Net: Name=PA13
+Added Net: Name=PA14
+Added Net: Name=PA15
+Added Net: Name=PB0
+Added Net: Name=PB1
+Added Net: Name=PB4
+Added Net: Name=PB5
+Added Net: Name=PB6
+Added Net: Name=PB7
+Added Net: Name=PB8
+Added Net: Name=PB9
+Added Net: Name=PB10
+Added Net: Name=PB11
+Added Net: Name=PB13
+Added Net: Name=PB14
+Added Net: Name=PB15
+Added Net: Name=PC0
+Added Net: Name=PC1
+Added Net: Name=PC2
+Added Net: Name=PC3
+Added Net: Name=PC4
+Added Net: Name=PC5
+Added Net: Name=PC6
+Added Net: Name=PC7
+Added Net: Name=PC8
+Added Net: Name=PC9
+Added Net: Name=PC10
+Added Net: Name=PC11
+Added Net: Name=PC12
+Added Net: Name=PC13
+Added Net: Name=PD2
+Added Class: Name=ºËÐÄ°å
+Added Room: Name=ºËÐÄ°å

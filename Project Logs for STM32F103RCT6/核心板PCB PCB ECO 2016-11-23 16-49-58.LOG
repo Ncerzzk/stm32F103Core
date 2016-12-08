@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=PC13 Pin=P1-5
+Change Component DesignItemId : Designator=P4 Old DesignItemId=Header 7X2 New DesignItemId=Header 8X2
+Change Component Footprint: Designator=P4 Old Footprint=Header 7X2 New Footprint=Header 8X2
+Change Component Comment : Designator=P4 Old Comment=Header 7X2 New Comment=Header 8X2
+Added Pin To Net: NetName=PC13 Pin=P4-15
