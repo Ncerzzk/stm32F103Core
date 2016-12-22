@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=C3 Old Footprint=0805C New Footprint=CAP-MLCC-0603
+Change Component Footprint: Designator=R2 Old Footprint=0805R New Footprint=RES-0603
+Added Member To Class: ClassName=ºËÐÄ°å Member=Component S1 SW-PB

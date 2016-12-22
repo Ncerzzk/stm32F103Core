@@ -1,0 +1,16 @@
+Remove Pin=P4-1 From Net=PA14
+Remove Pin=P4-2 From Net=PA15
+Remove Pin=P4-3 From Net=PC10
+Remove Pin=P4-4 From Net=PC11
+Remove Pin=P4-5 From Net=PC12
+Remove Pin=P4-6 From Net=PD2
+Remove Pin=P4-7 From Net=PB3
+Remove Pin=P4-8 From Net=PB4
+Remove Pin=P4-9 From Net=PB5
+Remove Pin=P4-10 From Net=PB6
+Remove Pin=P4-11 From Net=PB7
+Remove Pin=P4-12 From Net=PB8
+Remove Pin=P4-13 From Net=PB9
+Remove Pin=P4-14 From Net=PC13
+Change Pin Designator/Name:  Old Designator=Y2-1 Old Name=OSC1 New Designator =OSC1 New Name=1
+Change Pin Designator/Name:  Old Designator=Y2-2 Old Name=OSC2 New Designator =OSC2 New Name=2

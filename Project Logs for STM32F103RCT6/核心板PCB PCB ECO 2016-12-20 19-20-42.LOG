@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=OSC32_IN Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=OSC32_OUT Pin=C7-2
+Removed Pin From Net: NetName=OSC32_OUT Pin=Y1-1
+Removed Pin From Net: NetName=OSC32_IN Pin=Y1-2
+Removed Member From Class: ClassName=ºËÐÄ°å Member=C6
+Removed Member From Class: ClassName=ºËÐÄ°å Member=C7
+Removed Member From Class: ClassName=ºËÐÄ°å Member=Y1

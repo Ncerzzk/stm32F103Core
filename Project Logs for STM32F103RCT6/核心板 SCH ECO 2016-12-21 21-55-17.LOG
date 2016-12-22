@@ -1,0 +1,24 @@
+Change Component Footprint: Designator=P? Old Footprint=HDR1X8 New Footprint=HDR1X25_1.27
+Change Component Comment: Designator=P? Old Comment=Header 25 New Comment=Comment
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Add Pin To Net: Pin=P1-4 Old Net=NetP?_4 New Net=PC0
+Add Pin To Net: Pin=P1-5 Old Net=NetP?_5 New Net=PC1
+Add Pin To Net: Pin=P1-6 Old Net=NetP?_6 New Net=PC2
+Add Pin To Net: Pin=P1-7 Old Net=NetP?_7 New Net=PC3
+Add Pin To Net: Pin=P1-8 Old Net=NetP?_8 New Net=PA0
+Add Pin To Net: Pin=P1-11 Old Net=NetP?_11 New Net=PA1
+Add Pin To Net: Pin=P1-12 Old Net=NetP?_12 New Net=PA2
+Add Pin To Net: Pin=P1-13 Old Net=NetP?_13 New Net=PA3
+Add Pin To Net: Pin=P1-15 Old Net=NetP?_15 New Net=PA4
+Add Pin To Net: Pin=P1-16 Old Net=NetP?_16 New Net=SCK
+Add Pin To Net: Pin=P1-17 Old Net=NetP?_17 New Net=PA6
+Add Pin To Net: Pin=P1-18 Old Net=NetP?_18 New Net=SDI
+Add Pin To Net: Pin=P1-19 Old Net=NetP?_19 New Net=PC4
+Add Pin To Net: Pin=P1-20 Old Net=NetP?_20 New Net=PC5
+Add Pin To Net: Pin=P1-21 Old Net=NetP?_21 New Net=PB0
+Add Pin To Net: Pin=P1-22 Old Net=NetP?_22 New Net=PB1
+Add Pin To Net: Pin=P1-23 Old Net=NetP?_23 New Net=PB2
+Add Pin To Net: Pin=P1-24 Old Net=NetP?_24 New Net=PB10
+Add Pin To Net: Pin=P1-25 Old Net=NetP?_25 New Net=PB11
+Change Pin Designator/Name:  Old Designator=Y2-1 Old Name=OSC1 New Designator =OSC1 New Name=1
+Change Pin Designator/Name:  Old Designator=Y2-2 Old Name=OSC2 New Designator =OSC2 New Name=2

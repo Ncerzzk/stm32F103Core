@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=PB10 Pin=D2-K
+Removed Pin From Net: NetName=OSCOUT Pin=Y2-1
+Removed Pin From Net: NetName=OSCIN Pin=Y2-2
+Change Component DesignItemId : Designator=P2 Old DesignItemId= New DesignItemId=Header 25
+Change Component Description : Designator=P2 Old Description= New Description=Header, 25-Pin
+Change Component Library : Designator=P2 Old Library= New Library=K60-mainboard-v3.1.SCHLIB
+Added Component: Designator=Y2(Osc-6032)
+Added Pin To Net: NetName=PB12 Pin=D2-K
+Added Pin To Net: NetName=OSCOUT Pin=Y2-1
+Added Pin To Net: NetName=OSCIN Pin=Y2-2
+Added Member To Class: ClassName=ºËÐÄ°å Member=Component Y2 8M
